@@ -1,5 +1,2 @@
-# MC-FAL10A
-Schema per quadro:
-fune 
-auto/manuale
-vvvf (yaskawa L1000A)
+# MC-PFAL10A
+Schema quadro fune L1000A manovra a prenotazione
