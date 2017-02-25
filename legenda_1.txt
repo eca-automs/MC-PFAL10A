@@ -1,0 +1,40 @@
+1 - 2                          EXTRA CORSA
+2 - 4                          ALT E BOTTONIERA MANUTENZIONE
+4 - 5                          INTER FOSSA
+5 - 6                          ALT CABINA
+6 - 6A                         CEV
+6 - 7                          PARACADUTE
+7 - 8                          PRELIMINARI
+8 - 9                          PORTE CABINA
+9 - 10                         BLOCCHI
+GND - MA - MB                  DEVIATORE MANUTENZIONE
+GND - UP, GND - DW             PULSANTI ISPEZIONE
+CB - 0, CB - 1... (CABINA)     CHIAMATE DI CABINA (SU PERIFERICA QUADRO)
+CB - 0, CB - 1... (SALITA)     CHIAMATE DI SALITA (SU PERIFERICA QUADRO)
+CB - 0, CB - 1... (DISCESA)    CHIAMATE DI DISCESA (SU PERIFERICA QUADRO)
+GND - FCD                      BISTABILE FINE CORSA DISCESA
+GND - FCS                      BISTABILE FINE CORSA SALITA
+GND - ID                       INDUTTORE (NO) CONTEGGIO E FERMATA DISCESA
+GND - IS                       INDUTTORE (NO) CONTEGGIO E FERMATA SALITA
+GND - IAX                      INDUTTORE FERMATA CON PIANI CORTI ESTREMI
+CPF - PFD                      PREFINECORSA DISCESA
+CPF - PFS                      PREFINECORSA SALITA
+GND - PA                       PULSANTE APERTURA PORTE
+GND - SVR                      CONTATTO SOVRACCARICO
+GND - CM1                      COSTOLA MOBILE - FOTOCELLULA LATO1
+GND - CM2                      COSTOLA MOBILE - FOTOCELLULA LATO2
+GND - PRR                      PULSANTE PARTENZA RAPIDA
+GND - CCP                      CONTATTO CABINA COMPLETA
+PTC - PTC                      TERMORESISTENZE MOTORE (PER ESCLUDERE MONTARE LA RESISTENZA DA 470 OHM IN DOTAZIONE)
+CL - 0, CL - 1...              SEGNALAZIONE POSIZIONE (SU PERIFERICA QUADRO)
+CL - FS                        SEGNALAZIONE FRECCIA SALITA
+CL - FD                        SEGNALAZIONE FRECCIA DISCESA
+CL - FDX                       FRECCE PROSSIMA PARTENZA DISCESA
+CL - FSX                       FRECCE PROSSIMA PARTENZA SALITA
+CL - SV                        SEGNALAZIONE SOVRACCARICO
+CL - GON                       SEGNALAZIONE GONG IN CABINA
+PE                             RITORNO PRESENTE
+PR+ - PR-                      PATTINO RETRATTILE
+FR+ - FR-                      FRENO ARGANO
+
+TN                             COMUNE TERRE QUADRO
