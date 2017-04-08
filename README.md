@@ -1,4 +1,4 @@
-# Nome schema
+# MC-PFL10A
 ![electric_panel_icon](res/el_icon_4.jpg)
 ## Schema per quadro elettrico per ascensore
 
@@ -9,22 +9,29 @@ MCPX2015-SMD - PER16B-SMD
 Fune
 
 ### Manovra
-Tipo di manovra
+Prenotazione
 
 ### Operatore porte
-Tipo di operatore porte
+Automatico trifase, automatico elettronico
 
 ### Avviamento / controllo motore
-Tipo di avviamento (VVVF, soft starter con specifiche modelli e marche).
+VVVF con vvvf YASKAWA L1000A.
 
 ### Potenza massima motore / taglie compatibili
-Inserire kw motore e specifiche varie legate alla potenza e/o l'elenco di taglie dei quadri compatibili con questo schema.
+Taglia|Potenza
+---|---
+S10|6CV-400VAC
+S15|9CV-400VAC
+S20|13CV-400VAC
+S30|19CV-400VAC
+S35|24CV-400VAC
+S40|29CV-400VAC
 
 ### Allarme
-Tipo di allarme
+12VDC, legge 13.
 
 ### Emergenza
-Tipo di emergenza
+Nessuna.
 
 ### Emendamento A3
-Tipo di emendamento a3
+Nessuno.
